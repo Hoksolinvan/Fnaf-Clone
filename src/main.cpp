@@ -1309,6 +1309,8 @@ int main(int argc, char* argv[]){
                     powerdown_bool = true;
 
                 }
+
+                
                 
                 cameraMode=false;
                 mainoffice->RenderEnding();
